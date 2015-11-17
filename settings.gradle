@@ -1,0 +1,6 @@
+rootProject.name = 'daspec'
+
+include 'runner', 'runner'
+include 'framework'
+include 'sample'
+
